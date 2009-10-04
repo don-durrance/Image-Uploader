@@ -1,0 +1,18 @@
+README for Image Uploader
+This document is a work in progress.
+
+Image Uploader is designed as an easy, fast way of uploading an image for use on the web. It runs on Windows, OS X, and Linux. 
+
+License:
+See the file 'COPYING'
+
+Installation instructions:
+Please read 'INSTALL' file.
+
+Features: 
+
+* Auto-resizing of the image into a web-publishable version and thumbnaili
+* User-definable sizes 
+* FTP support (sFTP is planned)
+* Cross-platform (Windows/OS X/Linux/Anything that wxruby rmagick run on)
+* Other stuff

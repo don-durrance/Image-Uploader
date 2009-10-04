@@ -1,0 +1,11 @@
+--- 
+- !ruby/object:Server 
+  login_type: ftp
+  password: 
+  port: 22
+  profile_name: Test Server
+  public_url: http://test.com.invalid/
+  root_folder: /home/testuser/public_html/
+  server_name: test.com.invalid
+  username: testuser
+
